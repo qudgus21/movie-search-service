@@ -1,0 +1,25 @@
+.name-search{
+    position: relative;
+    margin: 7rem;
+}
+
+.name-input{
+    width: 50rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow : 0 0 10px gray;
+}
+
+.name-img{
+    position: absolute;
+    font-size: 2rem;
+    top : 0.5rem;
+    color: #959595;
+    right: 21rem;
+    cursor: pointer;
+}
+
+.name-img:hover{
+    color: black;
+}

@@ -1,0 +1,18 @@
+.detail-select{
+    display: flex;
+    justify-content :center;
+}
+
+.select-item{
+    margin: 3rem;
+    width: 30rem;
+}
+
+button{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: aliceblue;
+    border : 0.5px solid rgba(0,0,0,0.3);
+    border-radius: 15px;
+    cursor: pointer;
+}
